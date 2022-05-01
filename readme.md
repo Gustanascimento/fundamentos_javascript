@@ -2,7 +2,7 @@
 
 _Anotações do estudo da linguagem de programação JavaScript_
 
-[Javascript - Fundamentos](https://github.com/Gustanascimento/fundamentos_javascript/blob/main/01%20-%20Javascript%20-%20Fundamentos.md)
+[01 - Javascript - Fundamentos](https://github.com/Gustanascimento/fundamentos_javascript/blob/main/01%20-%20Javascript%20-%20Fundamentos.md)
 - Organização Básica
 - Constantes e Variáveis    
 - Tipos de dados
@@ -22,7 +22,7 @@ _Anotações do estudo da linguagem de programação JavaScript_
     - Ternários
 - Error handling
 
-[Estruturas de Controle e Repetição](https://github.com/Gustanascimento/fundamentos_javascript/blob/main/02%20-%20Estruturas%20de%20Controle%20e%20Repeti%C3%A7%C3%A3o.md)
+[02 - Estruturas de Controle e Repetição](https://github.com/Gustanascimento/fundamentos_javascript/blob/main/02%20-%20Estruturas%20de%20Controle%20e%20Repeti%C3%A7%C3%A3o.md)
 - Condicionais
     - IF
     - IF/ELSE
@@ -36,7 +36,7 @@ _Anotações do estudo da linguagem de programação JavaScript_
     - FOR/OF
     - BREAK/CONTINUE
 
-[Funções](https://github.com/Gustanascimento/fundamentos_javascript/blob/main/03%20-%20Fun%C3%A7%C3%B5es.md)
+[03 - Funções](https://github.com/Gustanascimento/fundamentos_javascript/blob/main/03%20-%20Fun%C3%A7%C3%B5es.md)
 - Declarações
 - Retornos
 - Argumentos
@@ -51,8 +51,8 @@ _Anotações do estudo da linguagem de programação JavaScript_
 - Função Auto Invocada (IIFE)
 - Call vs Apply
 
-[Objeto](https://github.com/Gustanascimento/fundamentos_javascript/blob/main/04%20-%20Objetos.md)
+[04 - Objetos](https://github.com/Gustanascimento/fundamentos_javascript/blob/main/04%20-%20Objetos.md)
 -tbd
 
-[Array](https://github.com/Gustanascimento/fundamentos_javascript/blob/main/05%20-%20Arrays.md)
+[05 - Arrays](https://github.com/Gustanascimento/fundamentos_javascript/blob/main/05%20-%20Arrays.md)
 -tbd
