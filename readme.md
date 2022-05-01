@@ -1,6 +1,6 @@
 # Javascript
 
-_Anotações do estudo da linguagem de programação JavaScript_
+_Anotações do estudo de JavaScript_
 
 [01 - Javascript - Fundamentos](https://github.com/Gustanascimento/fundamentos_javascript/blob/main/01%20-%20Javascript%20-%20Fundamentos.md)
 - Organização Básica
